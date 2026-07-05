@@ -1,6 +1,7 @@
 {
   "version": "1.1.2",
   "is_patch": true,
-  "download_url": "https://github.com/JuanesMGT1/MGT-Launcher/releases/tag/v1.1.2/MGT.Launcher.exe",
-  "changelog": "Nuevas correciones."
+  "patch_id": "patch1",
+  "download_url": "https://github.com/JuanesMGT1/MGT-Launcher/releases/download/v1.1.2/MGT.Launcher.exe",
+  "changelog": "Correcciónes."
 }
