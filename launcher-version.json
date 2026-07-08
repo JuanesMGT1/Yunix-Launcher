@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "is_patch": false,
   "patch_id": "patch1",
-  "download_url": "https://github.com/JuanesMGT1/Yunix-Launcher/releases/download/v1.2.0/Yunix.Launcher.exe",
+  "download_url": "https://github.com/JuanesMGT1/Yunix-Launcher/releases/download/v1.2.1/Yunix.Launcher.exe",
   "changelog": "Mejora en el rendimiento y correciones menores."
 }
